@@ -9,7 +9,7 @@
 ![STQB](https://img.shields.io/badge/-STQB-090909?style=for-the-badge&logo=STQB&logoColor=E9D54D)
 
 #### Testing of the medical services website
-[![DIV](https://github.com/Denis198421/Denis198421/blob/main/assets/MD.png](https://www.mozmarki.pl/)
+[![DIV](https://github.com/Denis198421/Denis198421/blob/main/assets/MD.png)](https://www.mozmarki.pl/)
 
 Click on the image to go to the site.
 
