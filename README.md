@@ -9,9 +9,10 @@
 ![STQB](https://img.shields.io/badge/-STQB-090909?style=for-the-badge&logo=STQB&logoColor=E9D54D)
 
 ####Testing of the medical services website
+<a href="https://www.mozmarki.pl/" target="_blank"><img src="//html5book.ru/wp-content/uploads/2014/07/Fringe.jpg" alt="Fringe"></a>
 https://www.mozmarki.pl/
 
-###Follow Me
+###Follow Me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/denis-hryszko-023a02254/)
 [![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook&logoColor=1195F5)](https://www.facebook.com/profile.php?id=100011239298831/DenisHryszko)
 
