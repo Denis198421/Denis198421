@@ -8,9 +8,9 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
 ![STQB](https://img.shields.io/badge/-STQB-090909?style=for-the-badge&logo=STQB&logoColor=E9D54D)
 
-####Testing of the medical services website
-<a href="https://www.mozmarki.pl/" target="_blank"><img src="//html5book.ru/wp-content/uploads/2014/07/Fringe.jpg" alt="Fringe"></a>
-https://www.mozmarki.pl/
+#### Testing of the medical services website
+<a href="https://www.mozmarki.pl/" target="_blank"><img src="//https://github.com/Denis198421/Denis198421/blob/main/assets/MD.png" alt="KARDIO-MED"></a>
+Click on the image to go to the site.
 
 ### Follow Me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/denis-hryszko-023a02254/)
